@@ -1,0 +1,101 @@
+Name,Ticker,Price,Currency,Exchange,Category
+Apple Inc.,AAPL,2302.99,USD,NYSE,Technology
+Microsoft Corp.,MSFT,683.49,USD,NYSE,Technology
+Amazon.com Inc.,AMZN,1530.21,USD,NYSE,Consumer Discretionary
+Alphabet Inc.,GOOGL,544.46,USD,NYSE,Communication Services
+Berkshire Hathaway,BRK.A,1193.21,USD,NYSE,Financials
+Visa Inc.,V,1295.32,USD,NYSE,Financials
+Johnson & Johnson,JNJ,562.37,USD,NYSE,Health Care
+Walmart Inc.,WMT,1968.58,USD,NYSE,Consumer Staples
+Procter & Gamble,PG,2710.16,USD,NYSE,Consumer Staples
+Exxon Mobil,XOM,1866.64,USD,NYSE,Energy
+UnitedHealth Group,UNH,1846.49,USD,NYSE,Health Care
+NVIDIA Corp.,NVDA,2741.56,USD,NYSE,Technology
+JPMorgan Chase,JPM,955.84,USD,NYSE,Financials
+The Home Depot,HD,572.06,USD,NYSE,Consumer Discretionary
+Mastercard Inc.,MA,526.41,USD,NYSE,Financials
+Pfizer Inc.,PFE,2022.85,USD,NYSE,Health Care
+Chevron Corp.,CVX,2136.5,USD,NYSE,Energy
+Verizon Communications,VZ,1923.11,USD,NYSE,Communication Services
+The Coca-Cola Company,KO,363.59,USD,NYSE,Consumer Staples
+Intel Corp.,INTC,1261.09,USD,NYSE,Technology
+Meta Platforms,META,2834.5,USD,NASDAQ,Communication Services
+Tesla Inc.,TSLA,511.8,USD,NASDAQ,Automobiles
+PepsiCo Inc.,PEP,309.15,USD,NASDAQ,Consumer Staples
+Cisco Systems,CSCO,539.76,USD,NASDAQ,Technology
+Adobe Inc.,ADBE,661.9,USD,NASDAQ,Technology
+Netflix Inc.,NFLX,2983.44,USD,NASDAQ,Communication Services
+Comcast Corp.,CMCSA,2711.82,USD,NASDAQ,Communication Services
+Qualcomm Inc.,QCOM,441.25,USD,NASDAQ,Technology
+Intel Corp.,INTC,1334.62,USD,NASDAQ,Technology
+Texas Instruments,TXN,2661.26,USD,NASDAQ,Technology
+Costco Wholesale,COST,1108.83,USD,NASDAQ,Consumer Staples
+Starbucks Corp.,SBUX,274.71,USD,NASDAQ,Consumer Discretionary
+Intuit Inc.,INTU,1000.94,USD,NASDAQ,Technology
+Amgen Inc.,AMGN,794.6,USD,NASDAQ,Health Care
+PayPal Holdings,PYPL,2782.65,USD,NASDAQ,Financials
+T-Mobile US,TMUS,927.42,USD,NASDAQ,Communication Services
+Broadcom Inc.,AVGO,1849.45,USD,NASDAQ,Technology
+Booking Holdings,BKNG,2124.8,USD,NASDAQ,Consumer Discretionary
+Gilead Sciences,GILD,2029.79,USD,NASDAQ,Health Care
+Marriott International,MAR,2881.44,USD,NASDAQ,Consumer Discretionary
+Toyota Motor Corp.,7203.T,1055.74,JPY,Tokyo,Automobiles
+Sony Group Corp.,6758.T,1188.46,JPY,Tokyo,Technology
+Keyence Corp.,6861.T,863.81,JPY,Tokyo,Technology
+SoftBank Group,9984.T,1246.33,JPY,Tokyo,Communication Services
+Mitsubishi UFJ Financial,8306.T,2373.36,JPY,Tokyo,Financials
+Tokyo Electron,8035.T,1458.72,JPY,Tokyo,Technology
+Shin-Etsu Chemical,4063.T,2649.4,JPY,Tokyo,Materials
+KDDI Corp.,9433.T,2591.45,JPY,Tokyo,Communication Services
+Nintendo Co. Ltd.,7974.T,759.84,JPY,Tokyo,Consumer Discretionary
+Fast Retailing,9983.T,771.39,JPY,Tokyo,Consumer Discretionary
+Daikin Industries,6367.T,281.54,JPY,Tokyo,Industrials
+Mitsui & Co.,8031.T,2117.38,JPY,Tokyo,Industrials
+Sumitomo Mitsui,8316.T,768.71,JPY,Tokyo,Financials
+Takeda Pharmaceutical,4502.T,1160.24,JPY,Tokyo,Health Care
+Recruit Holdings,6098.T,509.62,JPY,Tokyo,Industrials
+Tokyo Gas Co.,9531.T,314.62,JPY,Tokyo,Utilities
+Japan Tobacco,2914.T,2613.05,JPY,Tokyo,Consumer Staples
+Ajinomoto Co.,2802.T,2085.08,JPY,Tokyo,Consumer Staples
+Orix Corp.,8591.T,1522.73,JPY,Tokyo,Financials
+Subaru Corp.,7270.T,271.23,JPY,Tokyo,Automobiles
+Kweichow Moutai,600519.SS,2592.9,CNY,Shanghai,Consumer Staples
+Ping An Insurance,601318.SS,1965.44,CNY,Shanghai,Financials
+Industrial & Commercial Bank,601398.SS,964.0,CNY,Shanghai,Financials
+PetroChina Co. Ltd.,601857.SS,2304.64,CNY,Shanghai,Energy
+China Life Insurance,601628.SS,1389.18,CNY,Shanghai,Financials
+Bank of China,601988.SS,190.48,CNY,Shanghai,Financials
+China Shenhua Energy,601088.SS,2282.96,CNY,Shanghai,Energy
+SAIC Motor Corp.,600104.SS,528.47,CNY,Shanghai,Automobiles
+China Merchants Bank,600036.SS,2707.42,CNY,Shanghai,Financials
+Agricultural Bank of China,601288.SS,2555.84,CNY,Shanghai,Financials
+CITIC Securities,600030.SS,1474.15,CNY,Shanghai,Financials
+Shanghai Pudong Dev Bank,600000.SS,2167.02,CNY,Shanghai,Financials
+China State Construction,601668.SS,1131.21,CNY,Shanghai,Industrials
+Bank of Communications,601328.SS,983.56,CNY,Shanghai,Financials
+China Pacific Insurance,601601.SS,1472.82,CNY,Shanghai,Financials
+COSCO Shipping Holdings,601919.SS,1151.73,CNY,Shanghai,Industrials
+Anhui Conch Cement,600585.SS,2191.3,CNY,Shanghai,Materials
+Baoshan Iron & Steel,600019.SS,1592.55,CNY,Shanghai,Materials
+CRRC Corp.,601766.SS,1899.01,CNY,Shanghai,Industrials
+Yili Group,600887.SS,965.68,CNY,Shanghai,Consumer Staples
+LVMH,MC.PA,620.43,EUR,Euronext,Consumer Discretionary
+TotalEnergies SE,TTE.PA,2753.11,EUR,Euronext,Energy
+Sanofi,SAN.PA,1931.59,EUR,Euronext,Health Care
+Airbus SE,AIR.PA,2500.12,EUR,Euronext,Industrials
+L'Oréal,OR.PA,899.13,EUR,Euronext,Consumer Staples
+Schneider Electric,SU.PA,2358.7,EUR,Euronext,Industrials
+BNP Paribas,BNP.PA,695.77,EUR,Euronext,Financials
+AXA,CS.PA,2016.65,EUR,Euronext,Financials
+Air Liquide,AI.PA,448.59,EUR,Euronext,Materials
+Kering,KER.PA,857.13,EUR,Euronext,Consumer Discretionary
+Dassault Systèmes,DSY.PA,1457.45,EUR,Euronext,Technology
+Hermès,RMS.PA,2970.18,EUR,Euronext,Consumer Discretionary
+Capgemini,CAP.PA,2721.12,EUR,Euronext,Technology
+Vinci,DG.PA,1803.66,EUR,Euronext,Industrials
+Danone,BN.PA,831.76,EUR,Euronext,Consumer Staples
+Saint-Gobain,SGO.PA,293.6,EUR,Euronext,Materials
+Bouygues,EN.PA,1280.25,EUR,Euronext,Industrials
+Orange S.A.,ORA.PA,2387.06,EUR,Euronext,Communication Services
+Veolia Environnement,VIE.PA,533.69,EUR,Euronext,Utilities
+Engie,ENGI.PA,2541.53,EUR,Euronext,Utilities
